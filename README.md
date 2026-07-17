@@ -9,10 +9,11 @@ Course: Salesforce Certified Administrator with AI Agent
 Intern Name: Smartbridge internship
 
 👉Team members:
-Bhanu Rekha 
-Mamidi Rama Lakshmi 
-Volla Mohan kumar 
-Muppidi Madhuri 
+
+ Bhanu Rekha 
+ Mamidi Rama Lakshmi 
+ Volla Mohan kumar 
+ Muppidi Madhuri 
 
 2. 🎯Project Overview
   This 2-month internship focused on building an
