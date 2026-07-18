@@ -1,8 +1,7 @@
-AI Powered Customer Support and service automation- Internship
+
 
 AI POWERED CUSTOMER SUPPORT AND SERVICE AUTOMATION
 
-Internship Documentation
 
 Course: Salesforce Certified Administrator with AI Agent
 
@@ -18,27 +17,59 @@ Intern Name: Smartbridge internship
  
  Muppidi Madhuri 
 
-2. 🎯Project Overview
-  This 2-month internship focused on building an
- AI-powered customer support system using Salesforce.
-The goal was to automate repetitive tasks like reply generation and warranty validation to improve efficiency.
+# AI-Powered Customer Support & Service Automation
 
-3. ⚡Key Components Component
 
-    Type Purpose Apex Class Auto-generate customer replies using AI Auto_Warranty_Validation.
-   flow Salesforce Flow Auto validate warranty on case creation Order__c Custom Object Store order details Product__c Custom Object Store product warranty info Customer_Support_Reply_Generator.prm Prompt Template Standardize AI responses
-   
- 4.⚡ Outcomes & Impact
- 
-1. 60% reduction in manual support tasks
-2. Warranty check time reduced from 10 minutes to 30 seconds
-3. Consistent and faster AI-generated replies
-4.Hands-on experience with Salesforce + AI
+## 📌 Project Overview
+The AI-Powered Customer Support & Service Automation project is designed to improve customer service using Salesforce Service Cloud and Agentforce AI. The system automates customer support processes such as case creation, intelligent routing, warranty validation, and AI-powered responses, reducing manual effort and improving customer satisfaction.
 
-👉5. Skils Learned
 
-Salesforce Administration, Service Cloud, Flow Automation, Apex, AI
-Agent, Prompt Engineering, Documentation
+## 🚀 Features
+- AI-powered customer query handling
+- Automated Case Management
+- Intelligent Case Routing
+- Warranty Validation Automation
+- Omni-Channel Support (Email, Web, Chat)
+- Agentforce AI Integration
+- Real-time Notifications
+- Analytics & Dashboards
+
+
+## 🛠 Technologies Used
+- Salesforce Service Cloud
+- Agentforce AI
+- Salesforce Flow Automation
+- Apex
+- CRM
+- GitHub
+  
+
+## 📂 Project Structure
+```
+AI-Powered-Customer-Support-Service-Automation09/
+│── README.md
+│── AI_Customer_Support_Architecture.pdf
+│── Documentation.pdf
+│── Images/
+```
+
+
+## 📄 Documentation
+This repository includes:
+- High-Level Architecture
+- Technical Specification
+- Workflow Design
+- AI Interaction Framework
+- Warranty Automation Process
+
+
+## 🎯 Objectives
+- Reduce customer response time
+- Improve support efficiency
+- Automate repetitive tasks
+- Enhance customer experience
+- Provide AI-assisted customer service
+  
 
 👉6. Condusion
 
