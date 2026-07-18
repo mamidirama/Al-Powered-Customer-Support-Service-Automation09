@@ -25,7 +25,7 @@ The goal was to automate repetitive tasks like reply generation and warranty val
 
 3. ⚡Key Components Component
 
-    Type Purpose http://AIReplyGenerator.cls Apex Class Auto-generate customer replies using AI Auto_Warranty_Validation.
+    Type Purpose Apex Class Auto-generate customer replies using AI Auto_Warranty_Validation.
    flow Salesforce Flow Auto validate warranty on case creation Order__c Custom Object Store order details Product__c Custom Object Store product warranty info Customer_Support_Reply_Generator.prm Prompt Template Standardize AI responses
    
  4.⚡ Outcomes & Impact
